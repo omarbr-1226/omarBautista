@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me llamo Omar Bautista y soy de Chiapas, Mexica</p>
+<p align="left">Me llamo Omar Bautista y soy de Chiapas, Mexico</p>
 
 ###
 
