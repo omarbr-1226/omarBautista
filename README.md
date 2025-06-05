@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creador al fallo de bugs<br>📚 Actualmente estoy aprendiendo desarrollo de aplicaciones móviles<br>🎯 Metas: Ser un rogramador hábil en distintos lenguajes y soft skills</p>
+<p align="left">✨ Creador al fallo de bugs<br>📚 Actualmente estoy aprendiendo desarrollo de aplicaciones móviles<br>🎯 Metas: Programador hábil en distintos lenguajes y soft skills</p>
 
 ###
 
@@ -43,10 +43,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/omarbr-1226/omarbr-1226/output/snake.svg" alt="Snake animation" />
 
 ###
 
