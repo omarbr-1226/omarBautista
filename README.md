@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creador al fallo de bugs<br>📚 Actualmente estoy aprendiendo desarrollo de aplicaciones móviles<br>🎯 Metas: Programador hábil en distintos lenguajes y soft skills</p>
+<p align="left">✨ Creador al fallo de bugs<br>📚 Actualmente estoy aprendiendo desarrollo de aplicaciones móviles<br>🎯 Metas: Ser un rogramador hábil en distintos lenguajes y soft skills</p>
 
 ###
 
